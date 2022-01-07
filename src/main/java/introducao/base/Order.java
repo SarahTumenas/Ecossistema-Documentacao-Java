@@ -1,20 +1,41 @@
 package introducao.base;
 
 import java.math.BigDecimal;
+/**
+ * @author Sarah Tumenas
+ * @version 1.0.0
+ * @see BigDecimal
+ * @since Release 1.0.0
 
+ */
 public class Order {
+
+    // representa o código do pedido
     public final String code;
-    public final double totalValue ;
+    public final BigDecimal totalValue ;
 
-
-    public Order(String code, double totalValue) {
+    /**
+     * Construtor da Classe pedido
+     * @param code Código do pedido
+     * @param totalValue valor total do pedido
+     */
+    public Order(String code, BigDecimal totalValue) {
         this.code = code;
         this.totalValue = totalValue;
     }
 
-    public double calculateFee (){
-     if (this.totalValue > 100){
-         return this.totalValue * 0.99;
+    /**
+     * Calcula a taxa de acordo com o valor total do pedido. Se o pedido for maior que R$100,00 uma taxa será cobrada
+     * @return Valor total do pedido com as taxas
+     * @throws RuntimeException Se o valor do pedido for negativo
+     */
+
+    public BigDecimal calculateFee () throws RuntimeException {
+        if (this.totalValue.signum() < 0){
+            throw  new RuntimeException("O pedido não pode ter valor negativo");
+        }
+     if (this.totalValue.compareTo(new BigDecimal("100.00")) > 100){
+         return this.totalValue.multiply(new BigDecimal("0.99"));
      }else {
          return this.totalValue;
      }
