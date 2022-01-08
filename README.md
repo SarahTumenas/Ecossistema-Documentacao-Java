@@ -6,3 +6,4 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
 - Estudos ITA:
     - Hands-On: Classes e Objetos
     - Hands-On: Construtores
+    - Tarefa : Cálculo ICMC
