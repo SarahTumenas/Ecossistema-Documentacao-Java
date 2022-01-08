@@ -2,7 +2,7 @@ package ITA.ClassesCalculoIMC;
 
 public class Principal {
     public static void main(String[] args) {
-        Paciente p1 = new Paciente(75.0,1.75);
+        Paciente p1 = new Paciente(80.0,1.75);
         System.out.println(p1.calculaIMC());
 
         Paciente p2 = new Paciente(120.0, 1.78);
