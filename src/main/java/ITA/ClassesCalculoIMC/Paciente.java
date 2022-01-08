@@ -3,13 +3,10 @@ package ITA.ClassesCalculoIMC;
 public class Paciente {
     double peso;
     double altura;
-    private transient double imc;
-
 
     public Paciente(double peso, double altura) {
         this.peso = peso;
         this.altura = altura;
-        this.imc = imc;
     }
 
     public double getPeso() {
@@ -20,9 +17,6 @@ public class Paciente {
         return altura;
     }
 
-    public double getImc() {
-        return imc;
-    }
 
     public String calculaIMC() {
 
