@@ -1,4 +1,4 @@
-package ITA.Carros.HandsOnCalssesEObjetos;
+package ITA.HandsOnCalssesEObjetos;
 
 public class Principal {
     public static void main(String[] args) {
