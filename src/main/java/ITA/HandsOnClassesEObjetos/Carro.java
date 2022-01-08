@@ -1,4 +1,4 @@
-package ITA.HandsOnCalssesEObjetos;
+package ITA.HandsOnClassesEObjetos;
 
 public class Carro {
     int potencia;

@@ -5,3 +5,4 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
 - Introdução : conceitos de palavras reservadas, declarações de classes, modificadores de acesso, Métodos, Estruturas de condição e de repetição, Javadoc e Tags Javadoc
 - Estudos ITA:
     - Hands-On: Classes e Objetos
+    - Hands-On: Construtores
