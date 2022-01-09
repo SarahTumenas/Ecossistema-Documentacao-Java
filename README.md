@@ -8,3 +8,4 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Hands-On: Construtores
     - Tarefa : Cálculo ICMC
     - Hands-On: Colaboração entre Classes
+    - Hands-On: Comparando Tipos de Atributos: Estático X Dinâmico
