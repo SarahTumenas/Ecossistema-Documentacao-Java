@@ -6,6 +6,7 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
 - Estudos ITA:
     - Hands-On: Classes e Objetos
     - Hands-On: Construtores
-    - Tarefa : Cálculo ICMC
+    - Tarefa : Cálculo IMC
     - Hands-On: Colaboração entre Classes
     - Hands-On: Comparando Tipos de Atributos: Estático X Dinâmico
+    - Hands-On: Refatorando de Funções para Métodos
