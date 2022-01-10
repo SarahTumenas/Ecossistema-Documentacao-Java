@@ -10,3 +10,5 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Hands-On: Colaboração entre Classes
     - Hands-On: Comparando Tipos de Atributos: Estático X Dinâmico
     - Hands-On: Refatorando de Funções para Métodos
+    - Hands-On: Modelagem CRC
+    - 

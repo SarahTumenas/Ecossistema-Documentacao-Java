@@ -1,0 +1,65 @@
+
+                Sab : Sistema de Automação da Biblioteca
+
+    A Biblioteca tem nome, mantém um catálogo de livros, os quais cada um tem título, autor e número único de catálago.
+    Há usuários da Biblioteca registrados, cada um com um único nome de usuário.
+    Um usuário da Biblioteca pode emprestar um livro e devolver o livro emprestado para o sistema.
+    No entanto, cada transação de empréstimo ou devolução deve ser registrada por uma bibliotecária.
+    A bibliotecária tem que registrar um novo usuário da Biblioteca no SAB;
+    Quando solicitada, ela deve exibir, em ordem crescente do número único de catálago, os livros disponíveis para empréstimo,
+    bem como exibir os livros já emprestados e, portanto, indisponíveis para empréstimo.
+
+    Modelagem CRC:
+    - Passo 1: Identifica Objetos e Classes
+    - Passo 2: Refina a lista de Classes,
+    - Passo 3: Identifica responsabilidades óbvias
+    - Passo 4: Identifica verbos como responsabilidade
+    - Passo 5: Atribuição das novas responsabilidades
+    - Passo 6: Apresentar lógica para cada responsabilidade
+
+
+    Classes:
+
+    Biblioteca: representa o SAB
+
+    Livro: representa os livros a serem emprestados a usuários da Biblioteca
+
+    Usuario: representa usuários que emprestam os livros da Biblioteca
+
+    Responsabilidades óbvias:
+    Biblioteca: sabe nome, sabe catalogo de livros, sabe lista de usuarios, registrar usuario, adicionar livro ao catálogo,
+    emprestar livro, devolver livro, exibir livros disponiveis emprestimo, exibir livros indisponiveis emprestimo
+
+    Livro: sabe titulo, sabe autor, sabe nº de livro, sabe disponibiliade empréstimo, sabe usuário se emprestado
+
+    Usuario: sabe nome, sabe lista de livros emprestados(inicialmente vazia)
+
+    Lógica: "Empresta Livro" de biblioteca:
+    - tem um livro pra emprestimo para dado usuario
+    - marca livro como emprestado
+    - anexa usuario como alvo do emprestimo do livro
+    -anexa livro a lista de livros emprestado pelo usuario
+
+    Lógica: "Devolve Livro" de biblioteca
+    - desanexa livro da lista de livros emprestados pelo usuário
+    - desanexa usuário como alvo do empréstimo do livro
+    - Marca livro como disponivel
+
+    Lógica: "Exibe livros disponiveis" de Biblioteca
+    - para cada livro do catálogo de livros:
+        Se livro está disponível? Então coloca na lista para exibir = sabe disponibilidade empréstimo
+
+
+    Lógica: "Registra usuário" de biblioteca
+    - Se usuario não está na lista de usuario da Biblioteca
+        Então cria/instancia um novo objeto Usuario
+        Adiciona esse objeto a lista de usuarios da biblioteca e avisa "Novo Usuário"
+      Se não, avisa "Usuário já existente"
+
+    Lógica: "Adiciona Livro" de Biblioteca
+    - cria novo número único de catálogo
+    - cria/instancia um objeto livro sob o número único de catálogo
+    - adiciona objeto ao catálogo de livros da biblioteca
+
+
+
