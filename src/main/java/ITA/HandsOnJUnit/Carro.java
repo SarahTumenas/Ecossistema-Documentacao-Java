@@ -9,7 +9,7 @@ public class Carro {
         velocidade += potencia;
     }
 
-    void frear(){
+    public void frear(){
         velocidade = velocidade/2;
 
     }
