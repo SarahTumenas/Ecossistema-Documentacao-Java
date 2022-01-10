@@ -12,3 +12,4 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Hands-On: Refatorando de Funções para Métodos
     - Hands-On: Modelagem CRC
     - Hands-On: JUnit na prática
+    - Hands-On: Before e After JUnit
