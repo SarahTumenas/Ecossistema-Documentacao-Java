@@ -1,0 +1,8 @@
+package ITA.HandsOnCadeiaConstrutores;
+
+public class DoMeio extends PaiDeTodos{
+    public DoMeio() {
+        super("parametro");
+        System.out.println("Construtor do meio");
+    }
+}
