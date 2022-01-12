@@ -1,4 +1,4 @@
-package ITA.ViolacaoEncapsulamento;
+package ITA.HandsOnViolacaoEncapsulamento;
 
 public class Pilha {
 

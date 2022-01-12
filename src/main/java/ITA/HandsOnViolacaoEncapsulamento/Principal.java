@@ -1,6 +1,4 @@
-package ITA.ViolacaoEncapsulamento;
-
-import java.util.Locale;
+package ITA.HandsOnViolacaoEncapsulamento;
 
 public class Principal {
     public static void main(String[] args) {
