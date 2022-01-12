@@ -17,5 +17,6 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Hands-On: Modificadores de acesso
     - Hands-On: Cadeia de Construtores
     - Hands-On: Herança na Classe Carro
+    - Hands-On: Exemplo de Viloação de Encapsulamento
     - Hands-On: Encapsulamento de Arrays
     - 
