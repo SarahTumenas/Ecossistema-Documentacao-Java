@@ -1,4 +1,4 @@
-package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface;
+package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface.Funcionario;
 
 public class Main {
     public static void main(String[] args) {

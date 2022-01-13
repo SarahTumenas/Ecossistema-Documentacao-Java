@@ -1,4 +1,4 @@
-package introducao.base.OrientacaoObjetos;
+package introducao.base.OrientacaoObjetos.Carro;
 
 public class Carro {
     String cor;

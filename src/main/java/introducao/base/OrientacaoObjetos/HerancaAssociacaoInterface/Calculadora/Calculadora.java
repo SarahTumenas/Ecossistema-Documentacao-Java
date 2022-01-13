@@ -1,6 +1,6 @@
-package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface;
+package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface.Calculadora;
 
-public class Calculadora implements OperacoesMatematicas{
+public class Calculadora implements OperacoesMatematicas {
     @Override
     public void soma(double operando1, double operando2) {
         System.out.println("Soma : " + operando1 + operando2);

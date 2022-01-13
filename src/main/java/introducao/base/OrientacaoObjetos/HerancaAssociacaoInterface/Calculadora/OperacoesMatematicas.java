@@ -1,4 +1,4 @@
-package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface;
+package introducao.base.OrientacaoObjetos.HerancaAssociacaoInterface.Calculadora;
 
 public interface OperacoesMatematicas {
 
