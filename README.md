@@ -29,3 +29,5 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Hands-On: Interface e Polimorfismo
     - Hands-On: Exceções na prática
     - Hands-On: Criando e Testando Classe que lança Exceções
+
+- HTTPClient : Exemplos de requisições HTTP utilizando os métodos GET e POST.
