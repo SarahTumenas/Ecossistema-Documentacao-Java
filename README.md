@@ -3,6 +3,12 @@
 Neste repositório será compartilhado exercícios de Java, servindo de revisão dos principais conceitos e aplicações da linguagem
 
 - Introdução : conceitos de palavras reservadas, declarações de classes, modificadores de acesso, Métodos, Estruturas de condição e de repetição, Javadoc e Tags Javadoc
+    - Programação Orientada a Objetos:
+      - Fundamentos
+      - Estrutura básica da OO
+      - Herança, Associação e Interface
+      - Pacotes e Visibilidades
+      
 - Estudos ITA:
     - Hands-On: Classes e Objetos
     - Hands-On: Construtores
