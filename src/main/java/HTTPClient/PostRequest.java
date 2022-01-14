@@ -11,7 +11,7 @@ import java.time.Duration;
 public class PostRequest {
 
     public static final String URL_POST = "http://httpbin.org/forms/post";
-    public static final String FILE_JSON = "/home/jm/IdeaProjects/HttpExample/pedido.json";
+    public static final String FILE_JSON = "F:/Bootcamp Amdocs Java Developer/EcossistemaDocJava/src/main/java/HTTPClient/pedido.json";
 
     public static void main(String[] args) throws IOException, InterruptedException {
         // cliente HTTP
