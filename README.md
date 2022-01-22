@@ -6,7 +6,14 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
     - Características da linguagem Java: 
       - classes
       - Tipos
+            - primitivos
+            - não primitivos
+            - tipagem
+            - wrapper
       - Modificadores de Acesso
+            - abstract
+            - static
+            - final
       - Enums
     - Programação Orientada a Objetos:
       - Fundamentos
