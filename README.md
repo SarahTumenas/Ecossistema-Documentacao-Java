@@ -3,6 +3,7 @@
 Neste repositório será compartilhado exercícios de Java, servindo de revisão dos principais conceitos e aplicações da linguagem
 
 - Introdução : conceitos de palavras reservadas, declarações de classes, modificadores de acesso, Métodos, Estruturas de condição e de repetição, Javadoc e Tags Javadoc
+    - Características da linguagem Java: classes, tipos, Modificadores de Acesso, Enums
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
