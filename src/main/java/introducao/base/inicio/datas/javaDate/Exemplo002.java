@@ -12,12 +12,12 @@ public class Exemplo002 {
         Long currentTimeMillis = System.currentTimeMillis();
 
         System.out.println(currentTimeMillis);
-        // 1563127311564
+        // 1642949110867
 
         Date novaData = new Date(currentTimeMillis);
 
         System.out.println(novaData);
-        // Sun Jul 14 15:01:51 BRT 2019
+        // Sun Jan 23 11:45:10 BRT 2022
 
     }
 }
