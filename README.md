@@ -23,6 +23,7 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Strings
       - Laços, Condições e Operadores
       - Convenções de código
+    - Debug de Código
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
