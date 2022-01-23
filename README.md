@@ -24,6 +24,11 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Laços, Condições e Operadores
       - Convenções de código
     - Debug de Código
+    - Datas
+      - Date
+      - Calendar
+      - Date Format
+      - Local Date
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
