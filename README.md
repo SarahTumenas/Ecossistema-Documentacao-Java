@@ -19,6 +19,10 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
             - default
             - herança múltipla
       - Enums
+    - Características da linguagem Java 2:
+      - Strings
+      - Laços, Condições e Operadores
+      - Convenções de código
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
