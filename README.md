@@ -29,6 +29,11 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Calendar
       - Date Format
       - Local Date
+    - Variáveis, tipos de Dados e Operadores Matemáticos
+      - Conceituação e Criação
+      - Tipos de Dados
+      - Operadores Matemáticos
+      - Casting
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
