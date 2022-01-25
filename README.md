@@ -42,12 +42,21 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Criação
       - Sobrecarga
       - Retornos
-    
+    - Estruturas de Repetição e Arrays 
+      - Exercícios estruturas
+      - Exercícios Arrays
+    - Reforçando Conceito de Laços em Java
+      - Loops
+      - Interruptores
+      - Arrays e Matrizes
+      
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
       - Herança, Associação e Interface
       - Pacotes e Visibilidades
+      
+- Exercícios e Desafios:
       
 - Estudos ITA:
     - Hands-On: Classes e Objetos
