@@ -23,7 +23,7 @@ public class Tabuada {
 
         System.out.println("Tabuada de " + numero + ":");
 
-        for (int i = 0; i <= 10; i++) {
+        for (int i = 0; i < 11; i++) {
             System.out.println(numero + " X " + i + " = " + (numero * i));
         }
     }
