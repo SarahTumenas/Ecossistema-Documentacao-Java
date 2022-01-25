@@ -34,6 +34,11 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Tipos de Dados
       - Operadores Matemáticos
       - Casting
+    - Lógica Condicional e Controle de Fluxos
+      - Operadores Relacionais
+      - Operadores Lógicos
+      - Controle de Fluxo
+    
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
