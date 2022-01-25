@@ -4,7 +4,7 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
 
 - Introdução : 
     - Características da linguagem Java: 
-      - classes
+      - Classes
       - Tipos
             - primitivos
             - não primitivos
