@@ -38,6 +38,10 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Operadores Relacionais
       - Operadores Lógicos
       - Controle de Fluxo
+    - Métodos
+      - Criação
+      - Sobrecarga
+      - Retornos
     
     - Programação Orientada a Objetos:
       - Fundamentos
