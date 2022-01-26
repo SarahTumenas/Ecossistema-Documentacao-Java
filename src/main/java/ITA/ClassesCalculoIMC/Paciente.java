@@ -29,7 +29,7 @@ public class Paciente {
         } else if ((imc == 17) | (imc < 18.5)){
             return ("Baixo peso: " +getPeso());
         } else if ((imc == 18.5) | (imc < 25.0)){
-            return ("Baixo peso: " +getPeso());
+            return ("Peso Normal: " +getPeso());
         } else if ((imc == 25) | (imc < 30)){
         return ("Sobrepeso: " + getPeso());
         }else if ((imc == 30) | (imc < 35)){
