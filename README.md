@@ -56,7 +56,7 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Herança, Associação e Interface
       - Pacotes e Visibilidades
       
-- Exercícios e Desafios:
+- Exercícios extras:
       
 - Estudos ITA:
     - Hands-On: Classes e Objetos
