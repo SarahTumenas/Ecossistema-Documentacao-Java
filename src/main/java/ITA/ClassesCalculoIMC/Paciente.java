@@ -24,17 +24,17 @@ public class Paciente {
 
         if (imc < 16) {
             return ("Baixo peso muito grave: " + getPeso()) ;
-        } else if ((imc == 16) || (imc <= 16.99)){
+        } else if ((imc == 16) | (imc < 17)){
             return ("Baixo peso grave: " + getPeso());
-        } else if ((imc == 17) || (imc <= 18.49)){
+        } else if ((imc == 17) | (imc < 18.5)){
             return ("Baixo peso: " +getPeso());
-        } else if ((imc == 18.5) || (imc <= 24.99)){
+        } else if ((imc == 18.5) | (imc < 25.0)){
             return ("Baixo peso: " +getPeso());
-        } else if ((imc == 25) || (imc < 29.99)){
+        } else if ((imc == 25) | (imc < 30)){
         return ("Sobrepeso: " + getPeso());
-        }else if ((imc == 30) || (imc <= 34.99)){
+        }else if ((imc == 30) | (imc < 35)){
         return ("Obesidade grau I: " + getPeso());
-        }else if ((imc == 35) || (imc <= 39.99)){
+        }else if ((imc == 35) | (imc < 40)){
         return ("Obesidade grau II: " + getPeso());
         }else if (imc >= 40){
         return ("Obesidade grau III (obesidade mórbida): " + getPeso());
