@@ -49,7 +49,12 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Loops
       - Interruptores
       - Arrays e Matrizes
-      
+    - Estruturas de Dados
+      - Pilhas
+      - Filas
+      - Listas
+      - Árvores
+            
     - Programação Orientada a Objetos:
       - Fundamentos
       - Estrutura básica da OO
