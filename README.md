@@ -54,6 +54,12 @@ Neste repositório será compartilhado exercícios de Java, servindo de revisão
       - Filas
       - Listas
       - Árvores
+      - Implementações
+        - equals e hashCode
+        - Stack
+        - Queue
+        - List
+        - Map
             
     - Programação Orientada a Objetos:
       - Fundamentos
